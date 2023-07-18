@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\BIOS Setting\MousePointer\MousePointer\bin\Debug\MousePointer.exe.config
+C:\Users\Admin\Desktop\BIOS Setting\MousePointer\MousePointer\bin\Debug\MousePointer.exe
+C:\Users\Admin\Desktop\BIOS Setting\MousePointer\MousePointer\bin\Debug\MousePointer.pdb
+C:\Users\Admin\Desktop\BIOS Setting\MousePointer\MousePointer\obj\Debug\MousePointer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BIOS Setting\MousePointer\MousePointer\obj\Debug\MousePointer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BIOS Setting\MousePointer\MousePointer\obj\Debug\MousePointer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BIOS Setting\MousePointer\MousePointer\obj\Debug\MousePointer.exe
+C:\Users\Admin\Desktop\BIOS Setting\MousePointer\MousePointer\obj\Debug\MousePointer.pdb
